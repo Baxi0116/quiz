@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="600.0" prefWidth="800.0" style="-fx-background-color: #BBBBBB;" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.111">
+   <children>
+      <Label layoutX="328.0" layoutY="246.0" prefHeight="110.0" prefWidth="600.0" style="-fx-border-color: blue;" text="Kérdés helye" textAlignment="CENTER" AnchorPane.leftAnchor="100.0" AnchorPane.rightAnchor="100.0" AnchorPane.topAnchor="150.0">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Label>
+      <Label layoutX="386.0" layoutY="292.0" prefHeight="250.0" prefWidth="600.0" style="-fx-border-color: red;" text="Válaszok helye..." textAlignment="CENTER" AnchorPane.leftAnchor="100.0" AnchorPane.rightAnchor="100.0" AnchorPane.topAnchor="300.0">
+         <font>
+            <Font size="22.0" />
+         </font>
+      </Label>
+      <Label layoutX="47.0" layoutY="61.0" prefHeight="50.0" prefWidth="100.0" style="-fx-text-fill: white; -fx-background-color: #B22222; -fx-background-radius: 10px;" text="1. csapat" AnchorPane.leftAnchor="45.0" AnchorPane.rightAnchor="655.0" AnchorPane.topAnchor="60.0">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="386.0" layoutY="61.0" prefHeight="50.0" prefWidth="100.0" style="-fx-background-color: #32CD32; -fx-background-radius: 10px; -fx-text-fill: white;" text="3.csapat" AnchorPane.leftAnchor="255.0" AnchorPane.rightAnchor="445.0" AnchorPane.topAnchor="60.0">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="220.0" layoutY="61.0" prefHeight="50.0" prefWidth="100.0" style="-fx-background-radius: 10px; -fx-background-color: #1E90FF; -fx-text-fill: white;" text="2.csapat" AnchorPane.leftAnchor="150.0" AnchorPane.rightAnchor="550.0" AnchorPane.topAnchor="60.0">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
