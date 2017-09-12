@@ -110,7 +110,7 @@ public class Question {
 	@Override
 	public String toString() {
 		return "Question [questionText=" + questionText + ", answerA=" + answerA + ", answerB=" + answerB
-				+ ", answerC=" + answerC + "]";
+				+ ", answerC=" + answerC + ", correctAnswer=" + correctAnswer + "]";
 	}
 	
 	

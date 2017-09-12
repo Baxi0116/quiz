@@ -5,7 +5,10 @@ import java.io.IOException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.baxi.quiz.dao.QuestionDao;
+import com.baxi.quiz.model.Question;
 import com.baxi.quiz.util.EntityManagerProvider;
+import com.baxi.quiz.util.QuestionUtil;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -22,8 +25,11 @@ public class MainApp extends Application{
 	
 	private BorderPane rootLayout;
 	
+	private QuestionDao dao;
+	
 	@Override
 	public void stop() throws Exception {
+		dao.removeAll();
 		EntityManagerProvider.closeConnection();
 	}
 
@@ -32,10 +38,18 @@ public class MainApp extends Application{
 		this.primaryStage = primaryStage;
 		this.primaryStage.setTitle("Autómentes vetélkedő...");
 		
+		dao = new QuestionDao(EntityManagerProvider.provideEntityManager());
+		
+		QuestionUtil parser = new QuestionUtil();
+		
+		for(Question question : parser.readQuestion()) {
+			dao.persist(question);
+		}
+		
+		//parser.readQuestion();
 		initRootLayout();
 		showStartMenu();
 	}
-	
 	public void initRootLayout(){
 		try{
 			logger.debug("initRootLayout method from MainApp...");
