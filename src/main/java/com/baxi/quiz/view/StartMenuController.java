@@ -23,15 +23,15 @@ public class StartMenuController {
 	Button exitButton;
 	
 	@FXML
-	void handleNewGameButton(){
+	public void handleNewGameButton(){
 		Stage stage;
 		Parent root;
 		
 		try{
 			logger.debug("Handling New Game button action...");
-			FXMLLoader loader = new FXMLLoader(getClass().getResource("/view/QuizBoard.fxml"));
+			FXMLLoader loader = new FXMLLoader(getClass().getResource("/view/TeamSelectWindow.fxml"));
 			root = loader.load();
-			loader.<QuizController> getController();
+			loader.<TeamSelectController> getController();
 			stage = (Stage) newGameButton.getScene().getWindow();
 			Scene scene = new Scene(root);
 			stage.setScene(scene);
@@ -44,9 +44,8 @@ public class StartMenuController {
 	}
 	
 	@FXML
-	void handleExitButton(){
-		logger.warn("Exiting...");
-		System.exit(0);	
+	public void handleHighscoreButton(){
+		logger.warn("Highscore under development");
 	}
 	
 }

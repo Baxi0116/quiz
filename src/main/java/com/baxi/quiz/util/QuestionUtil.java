@@ -6,12 +6,15 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Random;
 
 import com.baxi.quiz.model.Question;
 
 public class QuestionUtil {
 
 	private InputStream fileName;
+	
+	private static Random randomizer;
 	
 	public QuestionUtil() {
 		this.fileName = QuestionUtil.class.getResourceAsStream("/kerdessor.txt");
@@ -47,4 +50,14 @@ public class QuestionUtil {
 			return questionList;
 		}
 	}
+	
+	public static Question chooseRandomQuestion(List<Question> questionList) {
+		
+		randomizer = new Random();
+		int index = randomizer.nextInt(questionList.size());
+		Question chosenQuestion = questionList.get(index);
+		
+		return chosenQuestion;
+	}
+	
 }

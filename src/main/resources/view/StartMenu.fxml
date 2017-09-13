@@ -17,26 +17,26 @@
          <graphic>
             <ImageView fitHeight="32.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../helmet.png" />
+                  <Image url="@../images/helmet.png" />
                </image>
             </ImageView>
          </graphic>
       </Button>
-      <Button fx:id="exitButton" alignment="CENTER" layoutX="300.0" layoutY="289.0" mnemonicParsing="false" onAction="#handleExitButton" prefHeight="50.0" prefWidth="200.0" style="-fx-background-color: #708090; -fx-text-fill: white; -fx-background-radius: 10px;" text="Rekordok" textAlignment="CENTER" AnchorPane.leftAnchor="500.0" AnchorPane.rightAnchor="500.0">
+      <Button fx:id="exitButton" alignment="CENTER" layoutX="300.0" layoutY="289.0" mnemonicParsing="false" onAction="#handleHighscoreButton" prefHeight="50.0" prefWidth="200.0" style="-fx-background-color: #708090; -fx-text-fill: white; -fx-background-radius: 10px;" text="Rekordok" textAlignment="CENTER" AnchorPane.leftAnchor="500.0" AnchorPane.rightAnchor="500.0">
          <font>
             <Font size="20.0" />
          </font>
          <graphic>
             <ImageView fitHeight="32.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../highscore.png" />
+                  <Image url="@../images/highscore.png" />
                </image>
             </ImageView>
          </graphic>
       </Button>
       <ImageView fitHeight="432.0" fitWidth="1366.0" layoutX="300.0" layoutY="408.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
          <image>
-            <Image url="@../menubackground2.png" />
+            <Image url="@../images/menubackground2.png" />
          </image>
       </ImageView>
       <Label alignment="CENTER" layoutX="97.0" layoutY="57.0" text="BEREG SZÍVE VETÉLKEDŐ" textAlignment="CENTER" textFill="#393480" AnchorPane.leftAnchor="90.0" AnchorPane.rightAnchor="90.0">
