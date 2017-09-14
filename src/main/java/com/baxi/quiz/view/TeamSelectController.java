@@ -39,13 +39,22 @@ public class TeamSelectController {
 		
 		try{
 			logger.debug("Handling Next button action...");
-			FXMLLoader loader = new FXMLLoader(getClass().getResource("/view/QuizBoard.fxml"));
-			root = loader.load();
-			loader.<QuizController> getController();
-			stage = (Stage) nextButton.getScene().getWindow();
-			Scene scene = new Scene(root);
-			stage.setScene(scene);
-			stage.show();			
+			
+			if(checkIfTeamsArePresent()) {
+				
+				FXMLLoader loader = new FXMLLoader(getClass().getResource("/view/QuizBoard.fxml"));
+				root = loader.load();
+				loader.<QuizController> getController();
+				stage = (Stage) nextButton.getScene().getWindow();
+				Scene scene = new Scene(root);
+				stage.setScene(scene);
+				stage.show();		
+				
+			} else {
+				//TODO: alert  dialog 
+				logger.warn("Empty team textfield(s)...");
+			}
+
 			
 		}catch(IOException e){
 			logger.error("Can't respond to next button interaction");
@@ -72,6 +81,11 @@ public class TeamSelectController {
 			logger.error("Can't respond to back button interaction");
 			e.printStackTrace();
 		}
+	}
+	
+	public boolean checkIfTeamsArePresent() {
+		
+		return false;
 	}
 	
 }

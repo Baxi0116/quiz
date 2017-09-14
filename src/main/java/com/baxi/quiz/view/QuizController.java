@@ -33,7 +33,13 @@ public class QuizController {
 	private Label questionAreaLabel;
 	
 	@FXML
-	private Label answerAreaLabel;
+	private Label answerALabel;
+	
+	@FXML
+	private Label answerBLabel;
+	
+	@FXML
+	private Label answerCLabel;
 	
 	@FXML
 	private Button startButton;
@@ -43,6 +49,9 @@ public class QuizController {
 		allQuestions = dao.findAll();
 		Question question = QuestionUtil.chooseRandomQuestion(allQuestions);
 		questionAreaLabel.setText(question.getQuestionText());
+		answerALabel.setText(question.getAnswerA());
+		answerBLabel.setText(question.getAnswerB());
+		answerCLabel.setText(question.getAnswerC());
 	}
 	
 }

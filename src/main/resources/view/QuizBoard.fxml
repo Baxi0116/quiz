@@ -7,14 +7,9 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane prefHeight="768.0" prefWidth="1366.0" style="-fx-background-color: #F0E68C;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.baxi.quiz.view.QuizController">
+<AnchorPane prefHeight="768.0" prefWidth="1366.0" style="-fx-background-color: #F0E68C; -fx-border-color: #8B4513; -fx-border-width: 10px;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.baxi.quiz.view.QuizController">
    <children>
       <Label fx:id="questionAreaLabel" alignment="CENTER" layoutX="100.0" layoutY="137.0" prefHeight="180.0" prefWidth="1166.0" style="-fx-border-color: blue;" textAlignment="CENTER" AnchorPane.leftAnchor="100.0" AnchorPane.rightAnchor="100.0">
-         <font>
-            <Font size="22.0" />
-         </font>
-      </Label>
-      <Label alignment="CENTER" layoutX="100.0" layoutY="337.0" prefHeight="320.0" prefWidth="1166.0" style="-fx-border-color: red;" textAlignment="CENTER" AnchorPane.leftAnchor="100.0" AnchorPane.rightAnchor="100.0">
          <font>
             <Font size="22.0" />
          </font>
@@ -61,5 +56,17 @@
          </font>
       </Label>
       <Button fx:id="startButton" layoutX="1110.0" layoutY="706.0" mnemonicParsing="false" onAction="#handleStartButton" prefHeight="30.0" prefWidth="100.0" text="Start" />
+      <Label fx:id="answerALabel" alignment="CENTER" layoutX="283.0" layoutY="412.0" prefHeight="50.0" prefWidth="800.0" style="-fx-background-color: lightslategray; -fx-background-radius: 20px;" textFill="WHITE">
+         <font>
+            <Font size="18.0" />
+         </font></Label>
+      <Label fx:id="answerBLabel" alignment="CENTER" layoutX="283.0" layoutY="499.0" prefHeight="50.0" prefWidth="800.0" style="-fx-background-color: lightslategray; -fx-background-radius: 20px;" textFill="WHITE">
+         <font>
+            <Font size="18.0" />
+         </font></Label>
+      <Label fx:id="answerCLabel" alignment="CENTER" layoutX="283.0" layoutY="583.0" prefHeight="50.0" prefWidth="800.0" style="-fx-background-color: lightslategray; -fx-background-radius: 20px;" textFill="WHITE">
+         <font>
+            <Font size="18.0" />
+         </font></Label>
    </children>
 </AnchorPane>
