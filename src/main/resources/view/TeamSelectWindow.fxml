@@ -8,12 +8,12 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane prefHeight="768.0" prefWidth="1366.0" style="-fx-background-color: #F0E68C; -fx-border-width: 10px; -fx-border-color: #8B4513;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.baxi.quiz.view.TeamSelectController">
+<AnchorPane prefHeight="700.0" prefWidth="1200.0" style="-fx-background-color: #F0E68C; -fx-border-width: 10px; -fx-border-color: #8B4513;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.baxi.quiz.view.TeamSelectController">
    <children>
-      <TextField fx:id="firstTeamTextField" layoutX="783.0" layoutY="196.0" prefHeight="32.0" prefWidth="200.0" AnchorPane.rightAnchor="400.0" />
-      <TextField fx:id="secondTeamTextField" layoutX="783.0" layoutY="295.0" prefHeight="32.0" prefWidth="200.0" AnchorPane.rightAnchor="400.0" />
-      <TextField fx:id="thirdTeamTextField" layoutX="783.0" layoutY="394.0" prefHeight="32.0" prefWidth="200.0" AnchorPane.rightAnchor="400.0" />
-      <Label layoutX="400.0" layoutY="179.0" prefWidth="200.0" style="-fx-border-color: #778899;" text="1. csapat" AnchorPane.leftAnchor="400.0">
+      <TextField fx:id="firstTeamTextField" layoutX="669.0" layoutY="196.0" prefHeight="32.0" prefWidth="200.0" AnchorPane.rightAnchor="331.0" />
+      <TextField fx:id="secondTeamTextField" layoutX="669.0" layoutY="295.0" prefHeight="32.0" prefWidth="200.0" AnchorPane.rightAnchor="331.0" />
+      <TextField fx:id="thirdTeamTextField" layoutX="669.0" layoutY="394.0" prefHeight="32.0" prefWidth="200.0" AnchorPane.rightAnchor="331.0" />
+      <Label layoutX="368.0" layoutY="179.0" prefWidth="200.0" style="-fx-border-color: #778899;" text="1. csapat" AnchorPane.leftAnchor="368.0">
          <graphic>
             <ImageView fitHeight="64.0" fitWidth="64.0" pickOnBounds="true" preserveRatio="true">
                <image>
@@ -25,7 +25,7 @@
             <Font size="22.0" />
          </font>
       </Label>
-      <Label layoutX="400.0" layoutY="278.0" prefWidth="200.0" style="-fx-border-color: #778899;" text="2. csapat" AnchorPane.leftAnchor="400.0">
+      <Label layoutX="366.0" layoutY="278.0" prefWidth="200.0" style="-fx-border-color: #778899;" text="2. csapat" AnchorPane.leftAnchor="366.0">
          <graphic>
             <ImageView fitHeight="64.0" fitWidth="64.0" pickOnBounds="true" preserveRatio="true">
                <image>
@@ -37,11 +37,11 @@
             <Font size="22.0" />
          </font>
       </Label>
-      <Label layoutX="400.0" layoutY="377.0" prefWidth="200.0" style="-fx-border-color: #778899;" text="3. csapat" AnchorPane.leftAnchor="400.0">
+      <Label layoutX="366.0" layoutY="377.0" prefWidth="200.0" style="-fx-border-color: #778899;" text="3. csapat" AnchorPane.leftAnchor="366.0">
          <graphic>
             <ImageView fitHeight="64.0" fitWidth="64.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../images/helmet_yellow.png" />
+                  <Image url="@../images/helmet_white.png" />
                </image>
             </ImageView>
          </graphic>
@@ -50,12 +50,12 @@
          </font>
       </Label>
       <Label layoutX="669.0" layoutY="71.0" AnchorPane.topAnchor="70.0" />
-      <Button fx:id="nextButton" layoutX="840.0" layoutY="645.0" mnemonicParsing="false" onAction="#handleNextButton" prefHeight="32.0" prefWidth="100.0" text="Tovább">
+      <Button fx:id="nextButton" layoutX="841.0" layoutY="564.0" mnemonicParsing="false" onAction="#handleNextButton" prefHeight="32.0" prefWidth="100.0" text="Tovább">
          <font>
             <Font size="15.0" />
          </font>
       </Button>
-      <Button fx:id="backButton" layoutX="966.0" layoutY="645.0" mnemonicParsing="false" onAction="#handleBackButton" prefHeight="32.0" prefWidth="100.0" text="Vissza">
+      <Button fx:id="backButton" layoutX="961.0" layoutY="564.0" mnemonicParsing="false" onAction="#handleBackButton" prefHeight="32.0" prefWidth="100.0" text="Vissza">
          <font>
             <Font size="15.0" />
          </font>

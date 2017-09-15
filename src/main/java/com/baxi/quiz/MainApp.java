@@ -6,6 +6,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import com.baxi.quiz.dao.QuestionDao;
+import com.baxi.quiz.dao.TeamDao;
 import com.baxi.quiz.model.Question;
 import com.baxi.quiz.util.EntityManagerProvider;
 import com.baxi.quiz.util.QuestionUtil;
@@ -25,11 +26,14 @@ public class MainApp extends Application{
 	
 	private BorderPane rootLayout;
 	
-	private QuestionDao dao;
+	private QuestionDao questionDao;
+	
+	private TeamDao teamDao;
 	
 	@Override
 	public void stop() throws Exception {
-		dao.removeAll();
+		questionDao.removeAll();
+		teamDao.removeAll();
 		EntityManagerProvider.closeConnection();
 	}
 
@@ -38,15 +42,15 @@ public class MainApp extends Application{
 		this.primaryStage = primaryStage;
 		this.primaryStage.setTitle("Autómentes vetélkedő...");
 		
-		dao = new QuestionDao(EntityManagerProvider.provideEntityManager());
+		questionDao = new QuestionDao(EntityManagerProvider.provideEntityManager());
+		teamDao = new TeamDao(EntityManagerProvider.provideEntityManager());
 		
 		QuestionUtil parser = new QuestionUtil();
 		
 		for(Question question : parser.readQuestion()) {
-			dao.persist(question);
+			questionDao.persist(question);
 		}
-		
-		//parser.readQuestion();
+
 		initRootLayout();
 		showStartMenu();
 	}

@@ -48,7 +48,7 @@ Kitõl származik az idézet? „ A hagyomány nem a hamu õrzése, hanem a lán
 Minek a jelképe a rózsaszín szalag?;A mellrák elleni összefogásé.;A stroke elleni összefogásé.;A flamingók védelméé.;a
 Mikor zajlott az utcai élõ sakk játszma?;A 2015. évi Autómentes Napon.;A  2016. évi Autómentes Napon.;A 2017. évi Autómentes Napon.;a
 Melyik évben készült el az új görög katolikus templom?;2015-ben.;2016-ban.;2017-ben.;b
-Hol adják ki a Partium folyóiratot?;Debrecenben.;Nyíregyházán.;Vásárosnaményban.;x
+Hol adják ki a Partium folyóiratot?;Debrecenben.;Nyíregyházán.;Vásárosnaményban.;c
 Mi a kedvenc hobbija a jelenlegi görög parókusnak?;Biciklizés.;Motorozás.;Lovaglás.;b
 Mikor van a zene és az idõsek világnapja?;November elsején.;Október elsején.;Május elsején.;b
 Kirõl kapta a nevét a vásárosnaményi nyugdíjas klub?;Petõfi Sándorról.;Esze Tamásról.;Liszt Ferencrõl.;b
@@ -107,10 +107,10 @@ Mi volt a foglalkozása a Beregi Múzeum alapítójának, Csiszár Árpádnak?;J
 Mi volt a felirata az 1842-ben öntött, de 1917-ben hadi célokra lefoglalt vásárosnaményi református harangnak?;„Az élõket összehívom a holtakat megsiratom”.;"Isten dicsõségére öntették ...";„Erõs vár a mi Istenünk”.;a
 Mikor avatták fel Gergelyiugornyán a Beregszászi úton a tájházat?;2015 októberében.;2015 novemberében.;2015 decemberében.;a
 Kinek a gondolatai a következõk:„Isten azért teremtette a zenét, hogy szavak nélkül tudjunk imádkozni”?;Bartók Béla.;John Lennon.;Johann Sebastian Bach.;c
-Hányadik születésnapját ünnepelte 2015-ben a Beregi Természetvédelmi Tábor?;15.;20.;25.;x
+Hányadik születésnapját ünnepelte 2015-ben a Beregi Természetvédelmi Tábor?;15.;20.;25.;c
 Melyik évben ünnepelte 50. „születésnapját” a Liszt Ferenc Vegyeskar?;2014-ben.;2015-ben.;2016-ban.;b
-Hol gyûjtötték a PET palackokat az önkéntesek és a kalózok a PET Kupa rajtja elõtt?;A jándi szigeten.;A gergelyiugornyai parton.;A Kraszna hullámterében.;x
-Mikor hurcolták el a település lakóit „málenkij robot”-ra?;1944 novemberében.;1945 novemberében.;1946 novemberében.;x
+Hol gyûjtötték a PET palackokat az önkéntesek és a kalózok a PET Kupa rajtja elõtt?;A jándi szigeten.;A gergelyiugornyai parton.;A Kraszna hullámterében.;a
+Mikor hurcolták el a település lakóit „málenkij robot”-ra?;1944 novemberében.;1945 novemberében.;1946 novemberében.;a
 Melyik évben kapott „új ruhát” a régi Kraszna-híd lábazata?;2014-ben.;2015-ben.;2016-ban.;b
 Mi volt a foglalkozása a kollégium névadójának, Babus Jolánnak?;Orvos.;Tanár.;Lelkész.;b
 Kinek a mûve „Az éhezõk viadala”?;Suzanne Mahler.;Suzanne Collins.;Suzanne Wilder.;b

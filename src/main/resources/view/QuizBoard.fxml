@@ -7,14 +7,14 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane prefHeight="768.0" prefWidth="1366.0" style="-fx-background-color: #F0E68C; -fx-border-color: #8B4513; -fx-border-width: 10px;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.baxi.quiz.view.QuizController">
+<AnchorPane prefHeight="700.0" prefWidth="1200.0" style="-fx-background-color: #F0E68C; -fx-border-color: #8B4513; -fx-border-width: 10px;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.baxi.quiz.view.QuizController">
    <children>
-      <Label fx:id="questionAreaLabel" alignment="CENTER" layoutX="100.0" layoutY="137.0" prefHeight="180.0" prefWidth="1166.0" style="-fx-border-color: blue;" textAlignment="CENTER" AnchorPane.leftAnchor="100.0" AnchorPane.rightAnchor="100.0">
+      <Label fx:id="questionAreaLabel" alignment="CENTER" layoutX="100.0" layoutY="137.0" prefHeight="180.0" prefWidth="800.0" style="-fx-border-color: blue;" textAlignment="CENTER" AnchorPane.leftAnchor="100.0" AnchorPane.rightAnchor="100.0">
          <font>
             <Font size="22.0" />
          </font>
       </Label>
-      <Label layoutX="44.0" layoutY="36.0" prefHeight="70.0" prefWidth="200.0" style="-fx-text-fill: white; -fx-background-color: #2E8B57; -fx-background-radius: 10px;">
+      <Label fx:id="firstTeamLabel" layoutX="44.0" layoutY="36.0" prefHeight="70.0" prefWidth="200.0" style="-fx-text-fill: white; -fx-background-color: #2E8B57; -fx-background-radius: 10px;">
          <font>
             <Font size="16.0" />
          </font>
@@ -26,19 +26,19 @@
             </ImageView>
          </graphic>
       </Label>
-      <Label layoutX="444.0" layoutY="36.0" prefHeight="70.0" prefWidth="200.0" style="-fx-background-color: #008080; -fx-background-radius: 10px; -fx-text-fill: white;">
+      <Label fx:id="thirdTeamLabel" layoutX="444.0" layoutY="36.0" prefHeight="70.0" prefWidth="200.0" style="-fx-background-color: #008080; -fx-background-radius: 10px; -fx-text-fill: white;">
          <font>
             <Font size="16.0" />
          </font>
          <graphic>
             <ImageView fitHeight="32.0" fitWidth="32.0" pickOnBounds="true" preserveRatio="true">
                <image>
-                  <Image url="@../images/helmet_yellow32.png" />
+                  <Image url="@../images/helmet_white32.png" />
                </image>
             </ImageView>
          </graphic>
       </Label>
-      <Label layoutX="244.0" layoutY="36.0" prefHeight="70.0" prefWidth="200.0" style="-fx-background-radius: 10px; -fx-background-color: #FFA500; -fx-text-fill: white;">
+      <Label fx:id="secondTeamLabel" layoutX="244.0" layoutY="36.0" prefHeight="70.0" prefWidth="200.0" style="-fx-background-radius: 10px; -fx-background-color: #FFA500; -fx-text-fill: white;">
          <font>
             <Font size="16.0" />
          </font>
@@ -50,23 +50,21 @@
             </ImageView>
          </graphic>
       </Label>
-      <Label alignment="CENTER" layoutX="1075.0" layoutY="46.0" prefHeight="50.0" prefWidth="70.0" style="-fx-border-radius: 10px; -fx-border-color: gray;">
-         <font>
-            <Font size="22.0" />
-         </font>
-      </Label>
-      <Button fx:id="startButton" layoutX="1110.0" layoutY="706.0" mnemonicParsing="false" onAction="#handleStartButton" prefHeight="30.0" prefWidth="100.0" text="Start" />
-      <Label fx:id="answerALabel" alignment="CENTER" layoutX="283.0" layoutY="412.0" prefHeight="50.0" prefWidth="800.0" style="-fx-background-color: lightslategray; -fx-background-radius: 20px;" textFill="WHITE">
+      <Button fx:id="startButton" layoutX="60.0" layoutY="644.0" mnemonicParsing="false" onAction="#handleStartButton" prefHeight="30.0" prefWidth="100.0" text="Start" />
+      <Label fx:id="answerALabel" alignment="CENTER" layoutX="300.0" layoutY="394.0" prefHeight="50.0" prefWidth="600.0" style="-fx-background-color: lightslategray; -fx-background-radius: 20px;" textFill="WHITE">
          <font>
             <Font size="18.0" />
          </font></Label>
-      <Label fx:id="answerBLabel" alignment="CENTER" layoutX="283.0" layoutY="499.0" prefHeight="50.0" prefWidth="800.0" style="-fx-background-color: lightslategray; -fx-background-radius: 20px;" textFill="WHITE">
+      <Label fx:id="answerBLabel" alignment="CENTER" layoutX="300.0" layoutY="485.0" prefHeight="50.0" prefWidth="600.0" style="-fx-background-color: lightslategray; -fx-background-radius: 20px;" textFill="WHITE">
          <font>
             <Font size="18.0" />
          </font></Label>
-      <Label fx:id="answerCLabel" alignment="CENTER" layoutX="283.0" layoutY="583.0" prefHeight="50.0" prefWidth="800.0" style="-fx-background-color: lightslategray; -fx-background-radius: 20px;" textFill="WHITE">
+      <Label fx:id="answerCLabel" alignment="CENTER" layoutX="300.0" layoutY="573.0" prefHeight="50.0" prefWidth="600.0" style="-fx-background-color: lightslategray; -fx-background-radius: 20px;" textFill="WHITE">
          <font>
             <Font size="18.0" />
          </font></Label>
+      <Button fx:id="newQuestionButton" disable="true" layoutX="800.0" layoutY="644.0" mnemonicParsing="false" onAction="#handleNewQuestionButton" prefHeight="30.0" prefWidth="100.0" text="Új kérdés" />
+      <Button fx:id="checkAnswerButton" disable="true" layoutX="921.0" layoutY="644.0" mnemonicParsing="false" onAction="#handleCheckAnswerButton" prefHeight="30.0" prefWidth="100.0" text="Ellenőrzés" />
+      <Button fx:id="battleResultButton" disable="true" layoutX="1040.0" layoutY="644.0" mnemonicParsing="false" onAction="#handleBattleResultButton" prefHeight="30.0" prefWidth="100.0" text="Eredmény" />
    </children>
 </AnchorPane>

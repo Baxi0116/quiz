@@ -5,10 +5,16 @@ import java.io.IOException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.baxi.quiz.dao.TeamDao;
+import com.baxi.quiz.model.Team;
+import com.baxi.quiz.util.EntityManagerProvider;
+
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
+import javafx.scene.control.Alert;
+import javafx.scene.control.Alert.AlertType;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
 import javafx.stage.Stage;
@@ -16,6 +22,8 @@ import javafx.stage.Stage;
 public class TeamSelectController {
 
 	private static Logger logger = LoggerFactory.getLogger(TeamSelectController.class);
+	
+	private TeamDao dao = new TeamDao(EntityManagerProvider.provideEntityManager());
 	
 	@FXML
 	private TextField firstTeamTextField;
@@ -42,6 +50,8 @@ public class TeamSelectController {
 			
 			if(checkIfTeamsArePresent()) {
 				
+				setupTeams();
+				
 				FXMLLoader loader = new FXMLLoader(getClass().getResource("/view/QuizBoard.fxml"));
 				root = loader.load();
 				loader.<QuizController> getController();
@@ -51,8 +61,14 @@ public class TeamSelectController {
 				stage.show();		
 				
 			} else {
-				//TODO: alert  dialog 
 				logger.warn("Empty team textfield(s)...");
+				
+				Alert alert = new Alert(AlertType.WARNING);
+				alert.setTitle("Hiba");
+				alert.setHeaderText("Csapatnév nem lehet üres.");
+				alert.setContentText("Töltsön ki minden mezőt!");
+
+				alert.showAndWait();
 			}
 
 			
@@ -85,7 +101,37 @@ public class TeamSelectController {
 	
 	public boolean checkIfTeamsArePresent() {
 		
-		return false;
+		if(firstTeamTextField.getText() == null || firstTeamTextField.getText().length() == 0){
+			return false;
+		}
+		if(secondTeamTextField.getText() == null || secondTeamTextField.getText().length() == 0){
+			return false;
+		}
+		if(thirdTeamTextField.getText() == null || thirdTeamTextField.getText().length() == 0){
+			return false;
+		}
+		
+		return true;
+	}
+	
+	public void setupTeams(){
+		
+		Team firstTeam = new Team();
+		Team secondTeam = new Team();
+		Team thirdTeam = new Team();
+		
+		firstTeam.setName(firstTeamTextField.getText());
+		secondTeam.setName(secondTeamTextField.getText());
+		thirdTeam.setName(thirdTeamTextField.getText());
+		
+		firstTeam.setScore(1000);
+		secondTeam.setScore(1000);
+		thirdTeam.setScore(1000);
+		
+		dao.persist(firstTeam);
+		dao.persist(secondTeam);
+		dao.persist(thirdTeam);
+		
 	}
 	
 }

@@ -8,7 +8,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane prefHeight="768.0" prefWidth="1366.0" style="-fx-background-color: #F0E68C;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.baxi.quiz.view.StartMenuController">
+<AnchorPane prefHeight="700.0" prefWidth="1200.0" style="-fx-background-color: #F0E68C;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.baxi.quiz.view.StartMenuController">
    <children>
       <Button fx:id="newGameButton" alignment="CENTER" layoutX="300.0" layoutY="205.0" mnemonicParsing="false" onAction="#handleNewGameButton" prefHeight="50.0" prefWidth="200.0" style="-fx-background-color: #708090; -fx-text-fill: white; -fx-background-radius: 10px;" text="Új játék" textAlignment="CENTER" AnchorPane.leftAnchor="500.0" AnchorPane.rightAnchor="500.0">
          <font>
@@ -34,7 +34,7 @@
             </ImageView>
          </graphic>
       </Button>
-      <ImageView fitHeight="432.0" fitWidth="1366.0" layoutX="300.0" layoutY="408.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0">
+      <ImageView layoutX="100.0" layoutY="423.0" pickOnBounds="true" preserveRatio="true" AnchorPane.bottomAnchor="30.0">
          <image>
             <Image url="@../images/menubackground2.png" />
          </image>
