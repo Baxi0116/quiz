@@ -97,6 +97,8 @@ $RECYCLE.BIN/
 
 # End of https://www.gitignore.io/api/linux,eclipse,windows
 
-.target
-.automentesquizdb
+target
+automentesquizdb
 /target/
+.classpath
+.project

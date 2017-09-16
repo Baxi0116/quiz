@@ -42,6 +42,8 @@ public class MainApp extends Application{
 		this.primaryStage = primaryStage;
 		this.primaryStage.setTitle("Autómentes vetélkedő...");
 		
+		initRootLayout();
+		
 		questionDao = new QuestionDao(EntityManagerProvider.provideEntityManager());
 		teamDao = new TeamDao(EntityManagerProvider.provideEntityManager());
 		
@@ -51,7 +53,7 @@ public class MainApp extends Application{
 			questionDao.persist(question);
 		}
 
-		initRootLayout();
+		
 		showStartMenu();
 	}
 	public void initRootLayout(){
