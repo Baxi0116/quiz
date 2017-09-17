@@ -132,8 +132,10 @@
                         </classPath>
                         <icon>src/main/resources/images/quiz.ico</icon>
                         <jre>
+                        	<path>../jre</path>
                             <minVersion>1.8.0</minVersion>
                             <jdkPreference>preferJre</jdkPreference>
+                            <runtimeBits>64/32</runtimeBits>
                         </jre>
                         <versionInfo>
                             <fileVersion>1.0.0.0</fileVersion>

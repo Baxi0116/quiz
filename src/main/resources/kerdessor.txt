@@ -1,120 +1,120 @@
-Mikor volt 2017-ben a Sárkányhajó Roadshow Vásárosnaményban?;Június 24.;Június 27.;Június 17.;a
-2017-ben hol állunk a Városmarketing Gyémánt Díj országos ranglistán?;Elsõ helyen;Második helyen;Holtversenyben harmadik helyen;c
-Szabad-e a játszótérre kutyát bevinni?;Csak pórázon vezetve;Egyáltalán nem;A vakvezetõ, rendõri és terápiás alkalmazású ebeket kivéve nem;c
+﻿Mikor volt 2017-ben a Sárkányhajó Roadshow Vásárosnaményban?;Június 24.;Június 27.;Június 17.;a
+2017-ben hol állunk a Városmarketing Gyémánt Díj országos ranglistán?;Első helyen;Második helyen;Holtversenyben harmadik helyen;c
+Szabad-e a játszótérre kutyát bevinni?;Csak pórázon vezetve;Egyáltalán nem;A vakvezető, rendőri és terápiás alkalmazású ebeket kivéve nem;c
 Mi a „lónyay” pontos neve?;Lónyay Menyhért Szakközépiskola;Lónyay Menyhért Baptista Szakközépiskola és Szakiskola;Lónyay Menyhért Baptista Szakgimnázium és Szakközépiskola;c
 Melyik három szín szerepel a „Bereg Szíve” termékeken?;Piros, fehér, zöld.;Piros, fehér, kék.;Piros, kék, sárga.;b
 Hány éves volt 2017-ben a Beregi Fafaragó Tábor?;47.;44.;45.;b
 Hányadik PET Kupa rajtolt 2017. július 1-én?;Negyedik.;Harmadik.;Ötödik;c
-Mi volt a jutalma a „Köll már a vitézség!” vetélkedõ legjobbjainak?;Ajándékcsomag.;Kárpátaljai kirándulás.;Belépõ a Szilva Fürdõbe.;b
-Kik voltak a „Költõk egymás közt” program vendégei 2017. április 24-én a könyvtárban?;Kürti László és Gyõrffy András Ernõ.;Tóth Krisztina és Dér István.;Kürti László és Tóth Krisztina.;c
-Ki a szerzõje a „Csicseri, Leveli és a többiek” címû kötetnek?;Gyõrffy András Ernõ.;Lázár Ervin.;Nemes Nagy Ágnes.;a
+Mi volt a jutalma a „Köll már a vitézség!” vetélkedő legjobbjainak?;Ajándékcsomag.;Kárpátaljai kirándulás.;Belépő a Szilva Fürdőbe.;b
+Kik voltak a „Költők egymás közt” program vendégei 2017. április 24-én a könyvtárban?;Kürti László és Győrffy András Ernő.;Tóth Krisztina és Dér István.;Kürti László és Tóth Krisztina.;c
+Ki a szerzője a „Csicseri, Leveli és a többiek” című kötetnek?;Győrffy András Ernő.;Lázár Ervin.;Nemes Nagy Ágnes.;a
 Mikor járt II. Rákóczi Ferenc településünkön?;1703. júniusában.;1703. júliusában.;1703. szeptemberében.;b
 Milyen tisztséget töltött be báró Eötvös József az államhatalomban?;Egészségügyi miniszter volt.;Vallás- és közoktatásügyi miniszter volt.;Pénzügyminiszter volt.;b
 Ki volt a cigány diákforradalmár, akit 1957. február 10-én végeztek ki?;Dankó Pista.;Dandos Gyula.;Debreceni Kiss Lajos.;b
 Hány intézmény csapata vett részt 2017. március 22-én a 2. Bereg Kupa Sakkversenyen? ;Három.;Négy.;Öt.;c
-Melyik napon kezdõdik húsvét elõtt a nagyböjt?;Húshagyó kedd.;Hamvazó szerda.;Nagycsütörtök.;a
-Mi a mirákulum szó jelentése a csíksomlyói történetekben?;Varázslat.;Imameghallgatásra bekövetkezõ csodák gyûjteménye.;Véletlen csodák.;b
+Melyik napon kezdődik húsvét előtt a nagyböjt?;Húshagyó kedd.;Hamvazó szerda.;Nagycsütörtök.;a
+Mi a mirákulum szó jelentése a csíksomlyói történetekben?;Varázslat.;Imameghallgatásra bekövetkező csodák gyűjteménye.;Véletlen csodák.;b
 Minek a rövidítése az OMME?;Országos Magyar Méhészeti Egyesület.;Országos Magyar Mikológiai Egyesület.;Országos Magyar Madártani Egyesület.;a
-Hogyan biztosították a Keskenyen ezen a télen a horgászok, hogy „le ne fulladjanak” a vízi élõlények?;Oxigénpalackokból engedtek oxigént a jég alá.;Léket vágtak a jégben.;Megolvasztották a jégtakarót.;b
-Hogy nevezik a Tourinform Iroda kezdeményezésére alakult „kétkerekû”-s csapatot?;Beregi Bicajosok.;Beregi Bringások.;Biciklis Turisták.;b
+Hogyan biztosították a Keskenyen ezen a télen a horgászok, hogy „le ne fulladjanak” a vízi élőlények?;Oxigénpalackokból engedtek oxigént a jég alá.;Léket vágtak a jégben.;Megolvasztották a jégtakarót.;b
+Hogy nevezik a Tourinform Iroda kezdeményezésére alakult „kétkerekű”-s csapatot?;Beregi Bicajosok.;Beregi Bringások.;Biciklis Turisták.;b
 Melyik a Liszt Ferenc Vegyeskar „nem vegyes” kara?;Liszt Férfikar.;Vásárosnaményi Öregek.;Vásárosnaményi Férfikar.;c
-Ki a hulladékot begyûjtõ közszolgáltató önkormányzatunknál?;TRV ZRT.;ÉAK NKFTZ.;E-ON ZRT.;b
+Ki a hulladékot begyűjtő közszolgáltató önkormányzatunknál?;TRV ZRT.;ÉAK NKFT.;E-ON ZRT.;b
 Milyen gyakorisággal történik a szelektív hulladék elszállítása 2017. január 1. napja óta?;Hetente.;Kéthetente.;Havonta.;b
-Hány éven felüli egyedül élõknek jár az utolsó negyedévre díjmentesség a hulladékgyûjtés díjából?;60.;65.;70.;b
+Hány éven felüli egyedül élőknek jár az utolsó negyedévre díjmentesség a hulladékgyűjtés díjából?;60.;65.;70.;b
 Hol található a Hermészt formázó szoborkályha?;A Beregi Múzeumban.;A Máthé Kúria szoborparkjában.;A Tomcsányi Kastélyban.;b
 Mikor szoktak „betlehemezni”?;Szilveszterkor.;Karácsonykor.;Húsvétkor.;b
-Kik vehetnek részt az Arany János Programban?;Hátrányos helyzetû tanulók.;Halmozottan hátrányos helyzetû tanulók.;Hátrányos helyzetû, tehetséges tanulók.;c
+Kik vehetnek részt az Arany János Programban?;Hátrányos helyzetű tanulók.;Halmozottan hátrányos helyzetű tanulók.;Hátrányos helyzetű, tehetséges tanulók.;c
 Hány fajta települési érték volt a Vásárosnaményi Települési Értéktárban 2016. december 31. napján?;Hét.;Nyolc.;Tíz.;c
-Esze Tamás születésének hányadik évfordulójára emlékeztek a „Köll már a vitézség!” elnevezésû program résztvevõi?;300.;350.;400.;b
-Kiknek az emlékére került tábla a bíróság épületére 2016. október 21-én?;Az 1848-49-es forradalom és szabadságharc hõseinek a tiszteletére.;Az 1956-os forradalom hõseinek a tiszteletére.;A II. Világháború hõseinek a tiszteletére.;b
-Kiknek állít emléket a Kraszna partján álló emlékmû és emléktábla?;A kényszermunkára elhurcolt helyi lakosoknak.;A II. Világháborúban elesett helyi lakosoknak.;Az 1956-os forradalom helyi hõseinek.;a
-Hogy hívják az „Óz, a nagy varázsló” kislány fõszereplõjét?;Dorka vagy Dorothy.;Zsófi vagy Sophia.;Sára vagy Sarah.;a
+Esze Tamás születésének hányadik évfordulójára emlékeztek a „Köll már a vitézség!” elnevezésű program résztvevői?;300.;350.;400.;b
+Kiknek az emlékére került tábla a bíróság épületére 2016. október 21-én?;Az 1848-49-es forradalom és szabadságharc hőseinek a tiszteletére.;Az 1956-os forradalom hőseinek a tiszteletére.;A II. Világháború hőseinek a tiszteletére.;b
+Kiknek állít emléket a Kraszna partján álló emlékmű és emléktábla?;A kényszermunkára elhurcolt helyi lakosoknak.;A II. Világháborúban elesett helyi lakosoknak.;Az 1956-os forradalom helyi hőseinek.;a
+Hogy hívják az „Óz, a nagy varázsló” kislány főszereplőjét?;Dorka vagy Dorothy.;Zsófi vagy Sophia.;Sára vagy Sarah.;a
 A honfoglaló magyarok hol léptek hazánk területére?;A Tatár-hágónál.;A Vereckei-hágónál.;Az Uzsoki-hágónál.;b
-Ki az alkotója („faragója”) a „Krumplitörõ” címû szobornak, aki 2017-ben a Beregi Múzeumnak adományozta?;Schmidth Sándor.;Baráth Sándor.;Bozó Sándor.;b
+Ki az alkotója („faragója”) a „Krumplitörő” című szobornak, aki 2017-ben a Beregi Múzeumnak adományozta?;Schmidth Sándor.;Baráth Sándor.;Bozó Sándor.;b
 Mi lett a neve a régi „forgácslap gyárnak”?;INTERSPAN KFT.;SWISS KRONO KFT.;AGRANA KFT.;b
-Hogy hívják az 1,5-99 éves korig használható, többféle méretben és színben készülõ, elemes játékcsaládot?;ORIGAMI.;LEGO.;PUZZLE.;b
+Hogy hívják az 1,5-99 éves korig használható, többféle méretben és színben készülő, elemes játékcsaládot?;ORIGAMI.;LEGO.;PUZZLE.;b
 Melyik évben volt adventkor vásár a Szent István parkban?;2015-ben.;2016-ban.;2017-ben.;b
-Ki volt Achilles, akirõl egy ín is kapott nevet?;Péleusz és Thetisz fia.;Zeusz és Thetisz fia.;Zeusz és Nereisz fia.;a
-Ki a szerzõje a „Regél a múlt Vásárosnaményról” címû könyvnek?;Sánta Miklós.;Gombita Sándor.;Miklós Elemér.;b
-Mikor ünnepelték elõször az egyházban önálló ünnepként a Halottak Napját?;1526-ban.;998-ban.;1038-ban.;b
-Milyen repülõgép típussal landolt a Kontársulat Párizsban?;TU-154-es.;Concorde.;Boeing.;c
+Ki volt Achilles, akiről egy ín is kapott nevet?;Péleusz és Thetisz fia.;Zeusz és Thetisz fia.;Zeusz és Nereisz fia.;a
+Ki a szerzője a „Regél a múlt Vásárosnaményról” című könyvnek?;Sánta Miklós.;Gombita Sándor.;Miklós Elemér.;b
+Mikor ünnepelték először az egyházban önálló ünnepként a Halottak Napját?;1526-ban.;998-ban.;1038-ban.;b
+Milyen repülőgép típussal landolt a Kontársulat Párizsban?;TU-154-es.;Concorde.;Boeing.;c
 Melyik név nem jelöl „helyi” óvodát?;Hétszínvirág.;Tündérkert.;Mesevarázsbirodalom.;c
-Hány típusú pályázati kiírása van a BURSA ösztöndíjrendszernek?;Egy: A.;Kettõ: A és B.;Három: A, B és C.;b
-Mi az az ÖKOMATA?;Megújuló energiával üzemelõ gyártószalag.;Bioenergiával és újrahasznosítással üzemelõ játékgép.;Szélenergiával mûködõ automata mérõmûszer.;b
-Mikor rendeztek elõször Gergelyiugornyán Sárkányhajó Roadshow-t?;2015-ben.;2016-ban.;2017-ben.;b
+Hány típusú pályázati kiírása van a BURSA ösztöndíjrendszernek?;Egy: A.;Kettő: A és B.;Három: A, B és C.;b
+Mi az az ÖKOMATA?;Megújuló energiával üzemelő gyártószalag.;Bioenergiával és újrahasznosítással üzemelő játékgép.;Szélenergiával működő automata mérőműszer.;b
+Mikor rendeztek először Gergelyiugornyán Sárkányhajó Roadshow-t?;2015-ben.;2016-ban.;2017-ben.;b
 Melyik intézménynek otthont adó épületet hívták régen Máthé- kúriának?;Beregi Múzeum Rákóczi Ferenc úti épülete.;Beregi Múzeum Szabadság téri épülete.;Tourinform Iroda épülete.;a
-Kirõl kapta a nevét a középiskolai kollégium?;Lónyay Menyhértrõl.;Babus Jolánról.;Arany Jánosról.;b
-Kitõl származik az idézet? „ A hagyomány nem a hamu õrzése, hanem a láng továbbadása.”;Eötvös József.;Morus Tamás.;Kossuth Lajos.;b
+Kiről kapta a nevét a középiskolai kollégium?;Lónyay Menyhértről.;Babus Jolánról.;Arany Jánosról.;b
+Kitől származik az idézet? „ A hagyomány nem a hamu őrzése, hanem a láng továbbadása.”;Eötvös József.;Morus Tamás.;Kossuth Lajos.;b
 Minek a jelképe a rózsaszín szalag?;A mellrák elleni összefogásé.;A stroke elleni összefogásé.;A flamingók védelméé.;a
-Mikor zajlott az utcai élõ sakk játszma?;A 2015. évi Autómentes Napon.;A  2016. évi Autómentes Napon.;A 2017. évi Autómentes Napon.;a
+Mikor zajlott az utcai élő sakk játszma?;A 2015. évi Autómentes Napon.;A  2016. évi Autómentes Napon.;A 2017. évi Autómentes Napon.;a
 Melyik évben készült el az új görög katolikus templom?;2015-ben.;2016-ban.;2017-ben.;b
 Hol adják ki a Partium folyóiratot?;Debrecenben.;Nyíregyházán.;Vásárosnaményban.;c
 Mi a kedvenc hobbija a jelenlegi görög parókusnak?;Biciklizés.;Motorozás.;Lovaglás.;b
-Mikor van a zene és az idõsek világnapja?;November elsején.;Október elsején.;Május elsején.;b
-Kirõl kapta a nevét a vásárosnaményi nyugdíjas klub?;Petõfi Sándorról.;Esze Tamásról.;Liszt Ferencrõl.;b
-Ki a névadója a gergelyiugornyai nyugdíjas klubnak?;Petõfi Sándor.;Esze Tamás.;Liszt Ferenc.;a
+Mikor van a zene és az idősek világnapja?;November elsején.;Október elsején.;Május elsején.;b
+Kiről kapta a nevét a vásárosnaményi nyugdíjas klub?;Petőfi Sándorról.;Esze Tamásról.;Liszt Ferencről.;b
+Ki a névadója a gergelyiugornyai nyugdíjas klubnak?;Petőfi Sándor.;Esze Tamás.;Liszt Ferenc.;a
 Hányadik születésnapját ünnepelte 2016-ban a vásárosnaményi római katolikus templom?;70.;80.;90.;b
-Melyik évben teremtett egyházfõhatósági rendelet káplánság kialakítására lehetõséget Vásárosnaményban?;1926-ban.;1930-ban.;1936-ban.;a
-Melyik „szentrõl” volt elnevezve a XX. század elején a mai Alkotmány utca?;Imre.;László.;István.;a
+Melyik évben teremtett egyházfőhatósági rendelet káplánság kialakítására lehetőséget Vásárosnaményban?;1926-ban.;1930-ban.;1936-ban.;a
+Melyik „szentről” volt elnevezve a XX. század elején a mai Alkotmány utca?;Imre.;László.;István.;a
 Hány méter magas a naményi katolikus templom tornya?;16.;26.;36.;b
 Ki alkotta a naményi katolikus templom életnagyságú feszületét?;Koncz Sándor.;Szilágyi János.;Sugár Gyula.;c
-2016 októberében hányadik alkalommal gyülekeztek össze városunkban a fogyatékkal élõk színjátszó csoportjai?;Elsõ.;Negyedik.;Nyolcadik.;c
+2016 októberében hányadik alkalommal gyülekeztek össze városunkban a fogyatékkal élők színjátszó csoportjai?;Első.;Negyedik.;Nyolcadik.;c
 Mikor rendezték meg az Országos Könyvtári Napok keretében a „Nagy Könyvtári Beavatás”-t?;2015 októberében.;2016 októberében.;2016 júniusában.;b
-Kinek az életét mutatták be a „lapátosok” közül 2016-ban egy emlékkiállításon a Mûvelõdési Központban?;Kolonics György.;Pulai Imre.;Vereckei Ákos.;a
-Kinek a vezetésével szórakoztatták a Nemzeti Lovas Színház tagjai a Sárkányhajó Roadshow-t kísérõ családi napon a közönséget?;Oszter Sándor.;Pintér Tibor.;Bencze Sándor.;b
-Hogyan nevezik a rendõrség azon programját, amelynek keretében diákok önkéntes közösségi szolgálatot teljesítenek?;Diák Rendõr.;Tourist Police.;Sulizsaru. ;b
-Melyik intézmény szervezésében zajlott „Kerekezõ Olvasótábor” 2016 júliusában?;Balázs József Városi Könyvtár és Mûvelõdési Központ.;Petõfi ÁMK.;Kölcsey ÁMK.;a
-Kinek a szervezésében zajlott a Kárpát-medencei Néptáncgála 2016-ban?;Beregi Múzeum.;Beregi Természet- és Környezetvédelmi Egyesület.;Beregi Ifjúságért és Közmûvelõdésért Egyesület.;b
-Hány éves kor felett igényelhetik az egyedül élõk az utolsó negyedév szemétszállítási díjának kedvezményét?;65.;70.;75.;a
-Melyik számokon lehet kapcsolatot létesíteni a rendõrséggel?;105 és 112.;104 és 112.;107 és 112.;c
-Kinek a mûvei a „Bogáncs”, valamint a „Tüskevár”?;Széchenyi Zsigmond.;Fekete István.;Kittenberger Kálmán.;b
-Ki volt a naményi nõi kézilabdások edzõje 1975-ben?;Bak István.;Papp István.;Puskás István.;b
-Mi volt a naményi nõi kézilabda csapat neve 1975-ben?;Fekete Gólya.;Vörös Meteor.;Sárga Rózsa.;b
+Kinek az életét mutatták be a „lapátosok” közül 2016-ban egy emlékkiállításon a Művelődési Központban?;Kolonics György.;Pulai Imre.;Vereckei Ákos.;a
+Kinek a vezetésével szórakoztatták a Nemzeti Lovas Színház tagjai a Sárkányhajó Roadshow-t kísérő családi napon a közönséget?;Oszter Sándor.;Pintér Tibor.;Bencze Sándor.;b
+Hogyan nevezik a rendőrség azon programját, amelynek keretében diákok önkéntes közösségi szolgálatot teljesítenek?;Diák Rendőr.;Tourist Police.;Sulizsaru. ;b
+Melyik intézmény szervezésében zajlott „Kerekező Olvasótábor” 2016 júliusában?;Balázs József Városi Könyvtár és Művelődési Központ.;Petőfi ÁMK.;Kölcsey ÁMK.;a
+Kinek a szervezésében zajlott a Kárpát-medencei Néptáncgála 2016-ban?;Beregi Múzeum.;Beregi Természet- és Környezetvédelmi Egyesület.;Beregi Ifjúságért és Közművelődésért Egyesület.;b
+Hány éves kor felett igényelhetik az egyedül élők az utolsó negyedév szemétszállítási díjának kedvezményét?;65.;70.;75.;a
+Melyik számokon lehet kapcsolatot létesíteni a rendőrséggel?;105 és 112.;104 és 112.;107 és 112.;c
+Kinek a művei a „Bogáncs”, valamint a „Tüskevár”?;Széchenyi Zsigmond.;Fekete István.;Kittenberger Kálmán.;b
+Ki volt a naményi női kézilabdások edzője 1975-ben?;Bak István.;Papp István.;Puskás István.;b
+Mi volt a naményi női kézilabda csapat neve 1975-ben?;Fekete Gólya.;Vörös Meteor.;Sárga Rózsa.;b
 2016-ban mi volt a Zoárd-nap középponti témája?;A középkori vásárok.;A középkori hadi játékok.; középkori hímzések.;a
 Hányadik születésnapját ünnepelte 2016-ban Demjén Ferenc?;65.;70.;75.;b
 A 2015-2016. évi bajnokságon az asztalitenisz csapat hányadik helyet szerezte meg az NB II. Délkeleti csoportjában?;5.;6.;7.;c
-2016-ban a Beregi Ünnepi hét elsõ napján kinek a kiállítása nyílt meg a Mûvelõdési Központban?;Hadházy Molnár Attila.;Schmidt Sándor.;Szenáki Kálmánné.;a
+2016-ban a Beregi Ünnepi hét első napján kinek a kiállítása nyílt meg a Művelődési Központban?;Hadházy Molnár Attila.;Schmidt Sándor.;Szenáki Kálmánné.;a
 Melyik generáció tagjaival foglalkozott Tari Annamária pszichológus 2016. 06. 3-án a Wesley Szakmai Napon?;X generáció (1960-70-es évek szülöttei).;Y generáció (1980-90-es évek szülöttei).;Z generáció (2000-es évek szülöttei).;c
 Lázár Ervin születésének hányadik évfordulóját ünnepeltük 2016-ban?;60.;70.;80.;c
-Mi a pontos neve az Alkotmány utcai bölcsõdének?;Beregi Mesevarázsbirodalom Bölcsõde.;Aprókák Háza.;Hétszínvarázs Bölcsõde.;a
+Mi a pontos neve az Alkotmány utcai bölcsődének?;Beregi Mesevarázsbirodalom Bölcsőde.;Aprókák Háza.;Hétszínvarázs Bölcsőde.;a
 Melyik rendezvény választotta jelmondatául 2016-ban: „A jó szakma felér egy diplomával!”?;A VIII. Szakma Sztár Fesztivál.;A IX. Szakma Sztár Fesztivál.;A X. Szakma Sztár Fesztivál.;b
 Hol vettek részt háromhetes szakmai gyakorlaton 2016 áprilisában lónyays diákok?;Finnországban.;Hollandiában.;Belgiumban.;a
 Melyik évben kapott nagyközségi rangot Vásárosnamény?;1967.;1968.;1969.;c
-Melyik évben született döntés településünk városi rangra emelésérõl?;1977.;1978.;1979.;b
-Melyik településhez köthetõ az elsõ teljes, magyar nyelvû Biblia nyomtatása?;Gönc.;Vizsoly.;Debrecen.;b
+Melyik évben született döntés településünk városi rangra emeléséről?;1977.;1978.;1979.;b
+Melyik településhez köthető az első teljes, magyar nyelvű Biblia nyomtatása?;Gönc.;Vizsoly.;Debrecen.;b
 Hol robbant fel 1986 áprilisában egy atomreaktor?;Cseljabinszk.;Csernobil.;Csernogorod.;b
 Hol található meg a Vásárosnaményi Roma Nemzetiségi Önkormányzat irodája?;Szabadság tér 1.;Tamási Áron u. 1.;Alkotmány u. 1.;a
-Kikhez látogatott el a Beregi Múzeum 2016-ban és festettek hímes tojásokat is?;Megoldás Ház lakóihoz.;A Humán Szolgáltató Központ Idõsek Otthona lakóihoz.;A Mesevarázsbirodalom bölcsõdéseihez.;b
+Kikhez látogatott el a Beregi Múzeum 2016-ban és festettek hímes tojásokat is?;Megoldás Ház lakóihoz.;A Humán Szolgáltató Központ Idősek Otthona lakóihoz.;A Mesevarázsbirodalom bölcsődéseihez.;b
 Hányadik születésnapját ünnepelte a Zrínyi Ilona Matematikaverseny 2016-ban?;20.;25.;30.;b
 Ki a megálmodója a „Rumini” mesekönyveknek?;Halász Judit.;Berg Judit.;Bódai-Soós Judit.;b
 Melyik szervezet meghívására tartott könyvbemutatót 2016. április 27-én Bálint György „Keserédes éveim” címmel?;Nyugdíjas Klub.;Kertbarát Klub;Versbarát Klub.;b
-Hány m3 ûrtartalmú a Vásárosnamény-Vitka között álló víztorony?;1200.;1400.;1600.;a
+Hány m3 űrtartalmú a Vásárosnamény-Vitka között álló víztorony?;1200.;1400.;1600.;a
 Melyik település víztornya robbant fel 2010. július 13-án?;Kisvárda.;Fehérgyarmat.;Záhony.;b
-Melyik városunk leghosszabb ideje mûködõ civil szervezõdése?;Postás Horgász egyesület.;Beregi Tisza Vadásztársaság.;Forrás Vállalkozói Klub.;a
-2016. február 25-én a „Népi melódiák” nemzetközi zenei verseny hányadik alkalommal került megrendezésre a mûvelõdési központban?;Elsõ.;Második.;Harmadik.;c
-A Magyar Kultúra Napján melyik mû „születésnapját” ünnepeljük?;Szózat.;Himnusz.;Nemzeti Dal.;b
-Kinek a mûve kezdõdik a következõ szavakkal: „Éneklem a Fársáng napjait”?;Gárdonyi Géza.;Csokonai Vitéz Mihály.;Petõfi Sándor.;b
+Melyik városunk leghosszabb ideje működő civil szerveződése?;Postás Horgász egyesület.;Beregi Tisza Vadásztársaság.;Forrás Vállalkozói Klub.;a
+2016. február 25-én a „Népi melódiák” nemzetközi zenei verseny hányadik alkalommal került megrendezésre a művelődési központban?;Első.;Második.;Harmadik.;c
+A Magyar Kultúra Napján melyik mű „születésnapját” ünnepeljük?;Szózat.;Himnusz.;Nemzeti Dal.;b
+Kinek a műve kezdődik a következő szavakkal: „Éneklem a Fársáng napjait”?;Gárdonyi Géza.;Csokonai Vitéz Mihály.;Petőfi Sándor.;b
 Milyen jutalomban részesültek az óvodás vers/mesemondók a „szelektív mesemondó” versenyen?;Aranyalmát kaptak.;Jutalomutazáson vehettek részt.;Meseország díszpolgáraivá váltak.;c
 Mikor hozta létre Erdélyi Mór az Uránia Magyar Tudományos Egyesület-et?;1897-ben.;1879-ben.;1798-ban.;a
-2016. január 3. napján kik fürdõztek a jeges Tiszában Gergelyiugornyánál?;Dr. Skapinecz József és két barátja.;Hidvégi-Üstös Pál és barátai.;Hosszú Katinka és csapattársai.;a
+2016. január 3. napján kik fürdőztek a jeges Tiszában Gergelyiugornyánál?;Dr. Skapinecz József és két barátja.;Hidvégi-Üstös Pál és barátai.;Hosszú Katinka és csapattársai.;a
 Kivel nincs testvérvárosi kapcsolatunk?;Nagykapos.;Beregszász.;Tallin.;c
 Hol született Lehoczky Tivadar?;Fiume mellett.;Nagykaposon.;Budapesten.;a
-Melyik szatmári településen mûködött a XVII. században gubacsapó céh?;Tunyogon.;Matolcson.;Fehérgyarmaton.;b
+Melyik szatmári településen működött a XVII. században gubacsapó céh?;Tunyogon.;Matolcson.;Fehérgyarmaton.;b
 Mikor született Bajcsy-Zsilinszky Endre?;1886-ban.;1896-ban.;1876-ban.;a
-Mikor rendeztek elõször Mikulás futást városunkban?;1994 decemberében.;1995 decemberében.;1996 decemberében.;b
-Milyen színeket alkalmaztak a legrégebbi beregi keresztszemes hímzõk?;Kéket és feketét.;Pirosat és feketét.;Pirosat és kéket.;c
+Mikor rendeztek először Mikulás futást városunkban?;1994 decemberében.;1995 decemberében.;1996 decemberében.;b
+Milyen színeket alkalmaztak a legrégebbi beregi keresztszemes hímzők?;Kéket és feketét.;Pirosat és feketét.;Pirosat és kéket.;c
 Mi volt a foglalkozása a Beregi Múzeum alapítójának, Csiszár Árpádnak?;Jogász.;Régész.;Református lelkipásztor.;c
-Mi volt a felirata az 1842-ben öntött, de 1917-ben hadi célokra lefoglalt vásárosnaményi református harangnak?;„Az élõket összehívom a holtakat megsiratom”.;"Isten dicsõségére öntették ...";„Erõs vár a mi Istenünk”.;a
+Mi volt a felirata az 1842-ben öntött, de 1917-ben hadi célokra lefoglalt vásárosnaményi református harangnak?;„Az élőket összehívom a holtakat megsiratom”.;"Isten dicsőségére öntették ...";„Erős vár a mi Istenünk”.;a
 Mikor avatták fel Gergelyiugornyán a Beregszászi úton a tájházat?;2015 októberében.;2015 novemberében.;2015 decemberében.;a
-Kinek a gondolatai a következõk:„Isten azért teremtette a zenét, hogy szavak nélkül tudjunk imádkozni”?;Bartók Béla.;John Lennon.;Johann Sebastian Bach.;c
+Kinek a gondolatai a következők:„Isten azért teremtette a zenét, hogy szavak nélkül tudjunk imádkozni”?;Bartók Béla.;John Lennon.;Johann Sebastian Bach.;c
 Hányadik születésnapját ünnepelte 2015-ben a Beregi Természetvédelmi Tábor?;15.;20.;25.;c
 Melyik évben ünnepelte 50. „születésnapját” a Liszt Ferenc Vegyeskar?;2014-ben.;2015-ben.;2016-ban.;b
-Hol gyûjtötték a PET palackokat az önkéntesek és a kalózok a PET Kupa rajtja elõtt?;A jándi szigeten.;A gergelyiugornyai parton.;A Kraszna hullámterében.;a
+Hol gyűjtötték a PET palackokat az önkéntesek és a kalózok a PET Kupa rajtja előtt?;A jándi szigeten.;A gergelyiugornyai parton.;A Kraszna hullámterében.;a
 Mikor hurcolták el a település lakóit „málenkij robot”-ra?;1944 novemberében.;1945 novemberében.;1946 novemberében.;a
 Melyik évben kapott „új ruhát” a régi Kraszna-híd lábazata?;2014-ben.;2015-ben.;2016-ban.;b
 Mi volt a foglalkozása a kollégium névadójának, Babus Jolánnak?;Orvos.;Tanár.;Lelkész.;b
-Kinek a mûve „Az éhezõk viadala”?;Suzanne Mahler.;Suzanne Collins.;Suzanne Wilder.;b
+Kinek a műve „Az éhezők viadala”?;Suzanne Mahler.;Suzanne Collins.;Suzanne Wilder.;b
 Mikor csatlakozott városunk az Autómentes Nap rendezvényeihez?;2006-ban.;2007-ben.;2008-ban.;b
-Mi az idei év jelmondata?;„Közös út, közös jövõ”.;„Ésszerû közlekedés, hatékony gazdaság”.;„Válassz, válts, kombinálj!”;a
+Mi az idei év jelmondata?;„Közös út, közös jövő”.;„Ésszerű közlekedés, hatékony gazdaság”.;„Válassz, válts, kombinálj!”;a
 Melyik minisztérium végzi a Mobilitási Hét koordinálását?;Vidékfejlesztési Minisztérium.;Nemzetgazdasági Minisztérium.;Nemzeti Fejlesztési Minisztérium.;c
-Mit jelent a „telekocsi” kifejezés?;Olyan jármû, amelyben csak a sofõr utazik.;Olyan jármû, amely minden ülésén utaznak.;Olyan jármû, amely tele van áruval.;b
+Mit jelent a „telekocsi” kifejezés?;Olyan jármű, amelyben csak a sofőr utazik.;Olyan jármű, amely minden ülésén utaznak.;Olyan jármű, amely tele van áruval.;b

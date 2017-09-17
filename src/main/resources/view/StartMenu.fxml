@@ -8,7 +8,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane prefHeight="700.0" prefWidth="1200.0" style="-fx-background-color: #F0E68C;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.baxi.quiz.view.StartMenuController">
+<AnchorPane prefHeight="700.0" prefWidth="1200.0" style="-fx-background-color: #FFF8DC;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.baxi.quiz.view.StartMenuController">
    <children>
       <Button fx:id="newGameButton" alignment="CENTER" layoutX="300.0" layoutY="205.0" mnemonicParsing="false" onAction="#handleNewGameButton" prefHeight="50.0" prefWidth="200.0" style="-fx-background-color: #708090; -fx-text-fill: white; -fx-background-radius: 10px;" text="Új játék" textAlignment="CENTER" AnchorPane.leftAnchor="500.0" AnchorPane.rightAnchor="500.0">
          <font>
@@ -39,7 +39,7 @@
             <Image url="@../images/menubackground2.png" />
          </image>
       </ImageView>
-      <Label alignment="CENTER" layoutX="97.0" layoutY="57.0" text="BEREG SZÍVE VETÉLKEDŐ" textAlignment="CENTER" textFill="#393480" AnchorPane.leftAnchor="90.0" AnchorPane.rightAnchor="90.0">
+      <Label alignment="CENTER" layoutX="97.0" layoutY="57.0" text="VÁROSFOGLALÓ" textAlignment="CENTER" textFill="#393480" AnchorPane.leftAnchor="90.0" AnchorPane.rightAnchor="90.0">
          <font>
             <Font name="Times New Roman" size="48.0" />
          </font>
@@ -47,7 +47,7 @@
             <Blend />
          </effect>
       </Label>
-      <Label alignment="CENTER" layoutX="232.0" layoutY="120.0" text="Autómentes nap 2017" textFill="#eb1010" AnchorPane.leftAnchor="90.0" AnchorPane.rightAnchor="90.0">
+      <Label alignment="CENTER" layoutX="232.0" layoutY="120.0" text="Autómentes Nap 2017" textFill="#eb1010" AnchorPane.leftAnchor="90.0" AnchorPane.rightAnchor="90.0">
          <font>
             <Font name="Times New Roman" size="36.0" />
          </font>

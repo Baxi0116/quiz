@@ -8,8 +8,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-
-<AnchorPane prefHeight="600.0" prefWidth="600.0" style="-fx-background-color: F0E68C; -fx-border-color: #8B4513; -fx-border-width: 10px;" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.111" fx:controller="com.baxi.quiz.view.BattleResultDialogController">
+<AnchorPane prefHeight="600.0" prefWidth="600.0" style="-fx-background-color: #FFF8DC; -fx-border-color: #8B4513; -fx-border-width: 10px;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.baxi.quiz.view.BattleResultDialogController">
    <children>
       <ImageView fitHeight="200.0" fitWidth="550.0" layoutX="25.0" layoutY="23.0" pickOnBounds="true" preserveRatio="true">
          <image>
@@ -28,7 +27,7 @@
       </ImageView>
       <Label fx:id="firstTeamLabel" alignment="CENTER" layoutX="87.0" layoutY="258.0" prefHeight="70.0" prefWidth="200.0" style="-fx-border-color: red;" />
       <Label fx:id="secondTeamLabel" alignment="CENTER" layoutX="87.0" layoutY="338.0" prefHeight="70.0" prefWidth="200.0" style="-fx-border-color: blue;" />
-      <Label fx:id="thirdTeamLabel" alignment="CENTER" layoutX="87.0" layoutY="423.0" prefHeight="70.0" prefWidth="200.0" style="-fx-border-color: white;" />
+      <Label fx:id="thirdTeamLabel" alignment="CENTER" layoutX="87.0" layoutY="423.0" prefHeight="70.0" prefWidth="200.0" style="-fx-border-color: darkgray;" />
       <TextField fx:id="firstTeamTextField" layoutX="329.0" layoutY="281.0" />
       <TextField fx:id="secondTeamTextField" layoutX="329.0" layoutY="361.0" />
       <TextField fx:id="thirdTeamTextField" layoutX="329.0" layoutY="446.0" />

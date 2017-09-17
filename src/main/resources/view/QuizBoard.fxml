@@ -7,7 +7,7 @@
 <?import javafx.scene.layout.AnchorPane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane prefHeight="700.0" prefWidth="1200.0" style="-fx-background-color: #F0E68C; -fx-border-color: #8B4513; -fx-border-width: 10px;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.baxi.quiz.view.QuizController">
+<AnchorPane prefHeight="700.0" prefWidth="1200.0" style="-fx-background-color: #FFF8DC; -fx-border-color: #8B4513; -fx-border-width: 10px;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.baxi.quiz.view.QuizController">
    <children>
       <Label fx:id="questionAreaLabel" alignment="CENTER" layoutX="100.0" layoutY="137.0" prefHeight="180.0" prefWidth="800.0" style="-fx-border-color: blue;" textAlignment="CENTER" AnchorPane.leftAnchor="100.0" AnchorPane.rightAnchor="100.0">
          <font>
@@ -50,7 +50,10 @@
             </ImageView>
          </graphic>
       </Label>
-      <Button fx:id="startButton" layoutX="60.0" layoutY="644.0" mnemonicParsing="false" onAction="#handleStartButton" prefHeight="30.0" prefWidth="100.0" text="Start" />
+      <Button fx:id="startButton" layoutX="44.0" layoutY="573.0" mnemonicParsing="false" onAction="#handleStartButton" prefHeight="30.0" prefWidth="100.0" style="-fx-background-color: #4169E1;" text="Start" textFill="WHITE">
+         <font>
+            <Font size="16.0" />
+         </font></Button>
       <Label fx:id="answerALabel" alignment="CENTER" layoutX="300.0" layoutY="394.0" prefHeight="50.0" prefWidth="600.0" style="-fx-background-color: lightslategray; -fx-background-radius: 20px;" textFill="WHITE">
          <font>
             <Font size="18.0" />
@@ -66,5 +69,9 @@
       <Button fx:id="newQuestionButton" disable="true" layoutX="800.0" layoutY="644.0" mnemonicParsing="false" onAction="#handleNewQuestionButton" prefHeight="30.0" prefWidth="100.0" text="Új kérdés" />
       <Button fx:id="checkAnswerButton" disable="true" layoutX="921.0" layoutY="644.0" mnemonicParsing="false" onAction="#handleCheckAnswerButton" prefHeight="30.0" prefWidth="100.0" text="Ellenőrzés" />
       <Button fx:id="battleResultButton" disable="true" layoutX="1040.0" layoutY="644.0" mnemonicParsing="false" onAction="#handleBattleResultButton" prefHeight="30.0" prefWidth="100.0" text="Eredmény" />
+      <Button fx:id="endGameButton" disable="true" layoutX="44.0" layoutY="614.0" mnemonicParsing="false" onAction="#handleEndGameButton" prefHeight="30.0" prefWidth="100.0" style="-fx-background-color: #FF6347;" text="Játék vége" textFill="WHITE">
+         <font>
+            <Font size="16.0" />
+         </font></Button>
    </children>
 </AnchorPane>

@@ -15,6 +15,7 @@ import com.baxi.quiz.util.QuestionUtil;
 
 import javafx.fxml.FXML;
 import javafx.fxml.FXMLLoader;
+import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
@@ -73,6 +74,9 @@ public class QuizController {
 	private Button battleResultButton;
 	
 	@FXML
+	private Button endGameButton;
+	
+	@FXML
 	private void initialize(){
 		
 		questionDao = new QuestionDao(EntityManagerProvider.provideEntityManager());
@@ -110,6 +114,7 @@ public class QuizController {
 		thirdTeamLabel.setText(team3.getName() + "\n" + team3.getScore() + " pont");
 		
 		startButton.setDisable(true);
+		endGameButton.setDisable(false);
 		checkAnswerButton.setDisable(false);
 	}
 	
@@ -132,7 +137,25 @@ public class QuizController {
 			newQuestionButton.setDisable(true);
 			checkAnswerButton.setDisable(false);
 		}else{
-			questionAreaLabel.setText("Elfogytak a kérdések :(");
+			logger.debug("Question reset...");
+			allQuestions.clear();
+			allQuestions = questionDao.findAll();
+			for(Question question : allQuestions){
+				question.setAsked(false);
+				questionDao.update(question);
+			}
+			
+			Question question = QuestionUtil.chooseRandomQuestion(allQuestions);
+			question.setAsked(true);
+			currentQuestion = question;
+			questionAreaLabel.setText(question.getQuestionText());
+			answerALabel.setText("a) " + question.getAnswerA());
+			answerBLabel.setText("b) " + question.getAnswerB());
+			answerCLabel.setText("c) " + question.getAnswerC());
+			
+			newQuestionButton.setDisable(true);
+			checkAnswerButton.setDisable(false);
+			
 		}
 
 	}
@@ -202,6 +225,28 @@ public class QuizController {
 		 } catch (IOException e) {
 			 e.printStackTrace();
 			 return false;
+		 }
+	 }
+	 
+	 @FXML
+	 private void handleEndGameButton(){
+		 try { 
+			 logger.debug("handling endgame button...");
+
+			 Stage stage;
+			 Parent root;
+			 FXMLLoader loader = new FXMLLoader(getClass().getResource("/view/EndGameMenu.fxml"));
+
+			 root = loader.load();
+
+			 loader.<EndGameMenuController> getController();
+			 stage = (Stage) endGameButton.getScene().getWindow();
+			 Scene scene = new Scene(root);
+			 stage.setScene(scene);
+			 stage.show();	
+		 } catch (IOException e) {
+			 // TODO Auto-generated catch block
+			 e.printStackTrace();
 		 }
 	 }
 	

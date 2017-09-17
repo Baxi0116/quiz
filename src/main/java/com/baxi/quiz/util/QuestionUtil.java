@@ -26,7 +26,7 @@ public class QuestionUtil {
 		List<Question> questionList = new ArrayList<Question>();
 		try {
 		
-			bfr = new BufferedReader(new InputStreamReader(fileName));
+			bfr = new BufferedReader(new InputStreamReader(fileName, "UTF-8"));
 		
 			String currentLine;
 		

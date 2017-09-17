@@ -102,3 +102,4 @@ automentesquizdb
 /target/
 .classpath
 .project
+jre/

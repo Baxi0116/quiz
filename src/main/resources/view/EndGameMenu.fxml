@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="700.0" prefWidth="1200.0" style="-fx-background-color: #FFF8DC; -fx-border-color: #8B4513; -fx-border-width: 10px;" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.baxi.quiz.view.EndGameMenuController">
+   <children>
+      <ImageView fitHeight="265.0" fitWidth="717.0" layoutX="255.0" layoutY="221.0" pickOnBounds="true" preserveRatio="true" AnchorPane.leftAnchor="255.0" AnchorPane.rightAnchor="255.0">
+         <image>
+            <Image url="@../images/dobogo.png" />
+         </image>
+      </ImageView>
+      <Label fx:id="secondPlaceLabel" alignment="CENTER_RIGHT" layoutX="275.0" layoutY="183.0" prefHeight="70.0" prefWidth="200.0" style="-fx-border-color: darkgray; -fx-border-radius: 10px;" textAlignment="RIGHT">
+         <font>
+            <Font size="18.0" />
+         </font></Label>
+      <Label fx:id="firstPlaceLabel" alignment="CENTER_RIGHT" layoutX="517.0" layoutY="148.0" prefHeight="70.0" prefWidth="200.0" style="-fx-border-color: darkgrey; -fx-border-radius: 10px;" textAlignment="RIGHT">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="thirdPlaceLabel" alignment="CENTER_RIGHT" layoutX="745.0" layoutY="218.0" prefHeight="70.0" prefWidth="200.0" style="-fx-border-color: darkgray; -fx-border-radius: 10px;" textAlignment="RIGHT">
+         <font>
+            <Font size="18.0" />
+         </font></Label>
+      <ImageView fitHeight="120.0" fitWidth="100.0" layoutX="332.0" layoutY="341.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/menubackground.png" />
+         </image>
+      </ImageView>
+      <Label alignment="CENTER" layoutX="359.0" layoutY="346.0" prefHeight="40.0" prefWidth="47.0" text="II" textFill="WHITE">
+         <font>
+            <Font name="Times New Roman Bold" size="38.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="120.0" fitWidth="100.0" layoutX="567.0" layoutY="305.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/menubackground.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="120.0" fitWidth="100.0" layoutX="781.0" layoutY="367.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/menubackground.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="610.0" layoutY="311.0" text="I" textFill="WHITE">
+         <font>
+            <Font name="Times New Roman Bold" size="38.0" />
+         </font>
+      </Label>
+      <Label layoutX="809.0" layoutY="377.0" text="III" textFill="WHITE">
+         <font>
+            <Font name="Times New Roman Bold" size="38.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="150.0" fitWidth="1000.0" layoutX="423.0" layoutY="512.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/laurel-wreath.png" />
+         </image>
+      </ImageView>
+      <Label fx:id="bigFirstPlaceLabel" alignment="CENTER" layoutX="510.0" layoutY="500.0" prefHeight="120.0" prefWidth="200.0" textAlignment="CENTER" textFill="#c92121">
+         <font>
+            <Font name="Times New Roman" size="22.0" />
+         </font>
+      </Label>
+      <Label layoutX="442.0" layoutY="32.0" text="EREDMÉNYEK" textFill="#393480">
+         <font>
+            <Font name="Times New Roman Bold" size="48.0" />
+         </font>
+      </Label>
+      <Button fx:id="exitButton" layoutX="1037.0" layoutY="636.0" mnemonicParsing="false" onAction="#handleExitButton" prefHeight="30.0" prefWidth="100.0" text="Kilépés" />
+      <ImageView fitHeight="64.0" fitWidth="64.0" layoutX="283.0" layoutY="186.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/silvermedal.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="64.0" fitWidth="64.0" layoutX="749.0" layoutY="221.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/bronzemedal.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="64.0" fitWidth="64.0" layoutX="524.0" layoutY="151.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/goldmedal.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
