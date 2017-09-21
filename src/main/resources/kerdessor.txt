@@ -101,16 +101,16 @@ Kivel nincs testvérvárosi kapcsolatunk?;Nagykapos.;Beregszász.;Tallin.;c
 Hol született Lehoczky Tivadar?;Fiume mellett.;Nagykaposon.;Budapesten.;a
 Melyik szatmári településen működött a XVII. században gubacsapó céh?;Tunyogon.;Matolcson.;Fehérgyarmaton.;b
 Mikor született Bajcsy-Zsilinszky Endre?;1886-ban.;1896-ban.;1876-ban.;a
-Mikor rendeztek először Mikulás futást városunkban?;1994 decemberében.;1995 decemberében.;1996 decemberében.;b
+Mikor rendeztek először Mikulás futást városunkban?;2014 decemberében.;2015 decemberében.;2016 decemberében.;b
 Milyen színeket alkalmaztak a legrégebbi beregi keresztszemes hímzők?;Kéket és feketét.;Pirosat és feketét.;Pirosat és kéket.;c
 Mi volt a foglalkozása a Beregi Múzeum alapítójának, Csiszár Árpádnak?;Jogász.;Régész.;Református lelkipásztor.;c
 Mi volt a felirata az 1842-ben öntött, de 1917-ben hadi célokra lefoglalt vásárosnaményi református harangnak?;„Az élőket összehívom a holtakat megsiratom”.;"Isten dicsőségére öntették ...";„Erős vár a mi Istenünk”.;a
 Mikor avatták fel Gergelyiugornyán a Beregszászi úton a tájházat?;2015 októberében.;2015 novemberében.;2015 decemberében.;a
-Kinek a gondolatai a következők:„Isten azért teremtette a zenét, hogy szavak nélkül tudjunk imádkozni”?;Bartók Béla.;John Lennon.;Johann Sebastian Bach.;c
+Kinek a gondolatai a következők:„Isten azért teremtette a zenét, hogy szavak nélkül tudjunk imádkozni”?;Bartók Béla.;John Lennon.;Johann Sebastian Bach.;b
 Hányadik születésnapját ünnepelte 2015-ben a Beregi Természetvédelmi Tábor?;15.;20.;25.;c
 Melyik évben ünnepelte 50. „születésnapját” a Liszt Ferenc Vegyeskar?;2014-ben.;2015-ben.;2016-ban.;b
 Hol gyűjtötték a PET palackokat az önkéntesek és a kalózok a PET Kupa rajtja előtt?;A jándi szigeten.;A gergelyiugornyai parton.;A Kraszna hullámterében.;a
-Mikor hurcolták el a település lakóit „málenkij robot”-ra?;1944 novemberében.;1945 novemberében.;1946 novemberében.;a
+Mikor hurcolták el a település lakóit „málenkij robot”-ra?;1944 novemberében.;1945 novemberében.;1946 novemberében.;b
 Melyik évben kapott „új ruhát” a régi Kraszna-híd lábazata?;2014-ben.;2015-ben.;2016-ban.;b
 Mi volt a foglalkozása a kollégium névadójának, Babus Jolánnak?;Orvos.;Tanár.;Lelkész.;b
 Kinek a műve „Az éhezők viadala”?;Suzanne Mahler.;Suzanne Collins.;Suzanne Wilder.;b
